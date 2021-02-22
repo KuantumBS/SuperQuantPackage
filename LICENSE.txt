@@ -7,7 +7,8 @@ This file is a part of "SuperQuant" package.
 Terms of use of this code are provided below (until long horizontal line)
 
 Most up-to-date version of this agreement must always be used. Updates
-Are available at github.com/andreyklots/SuperQuantPackage.
+Are available at github.com/andreyklots/SuperQuantPackage
+and github.com/andreyklots/SuperQuantPackageV2.
 
    Terms used in agreement:
         "modification": for purposes of this agreement, the word "modified"
